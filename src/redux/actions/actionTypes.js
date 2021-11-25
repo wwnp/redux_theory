@@ -1,0 +1,6 @@
+export const ADD = 'ADD'
+export const DEC = 'DEC'
+export const ADD_NUMBER = 'ADD'
+export const ADD2 = 'ADD2'
+export const DEC2 = 'DEC2'
+export const ASYNC_INC = 'ASYNC_INC'
